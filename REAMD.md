@@ -4,8 +4,8 @@
 
 Feito para a resolução e treinamento de APIs, nesse caso foi um de geradores de conselhos
 
-##Tecnologias usadas
+## Tecnologias usadas
 CSS, JavaScript e Html
 
-##Dificuldades encontradas
+## Dificuldades encontradas
 ainda não dominei totalmente todas as formas de maneijo dos objetos dentro da APIs, para serem mostrada em tela.
